@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Contributing to The Hacker Theme
 
 Hi there! We're thrilled that you'd like to contribute to The Hacker Theme. Your help is essential for keeping it great.
